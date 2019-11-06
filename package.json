@@ -1,0 +1,26 @@
+{
+  "name": "feedbackproject",
+  "version": "1.0.0",
+  "description": "A feedback project using technology stack : React/Redux/Express/Node/MongoDB",
+  "main": "index.js",
+  "engines": {
+    "node" : "10.16.3",
+    "npm" : "6.9.0"
+  },
+  "scripts": {
+    "start" : "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aayushi1993/FeedbackProject.git"
+  },
+  "author": "Aayushi Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aayushi1993/FeedbackProject/issues"
+  },
+  "homepage": "https://github.com/Aayushi1993/FeedbackProject#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
